@@ -3,6 +3,21 @@
 <img width="98%" src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-16%20at%207.47.51%E2%80%AFPM_LCV_8XS35.png?updatedAt=1705416307831" alt="" />
 Home page Image
 
+
+This is Task management app created by create-react-app. Here user can add multiple tasks and change its state by drag and drop.
+To implement Drag and Drop functionality, I used React DnD.
+To store the task data I am using local storage.
+There are multiple components and each of them are having single responsibility of task.
+I used props to pass data from parent component to child component.
+Here Data flow is uni-directional i.e. from parent component to child component.
+
+
+## Deployment Info
+To deply the application I used vercel.
+
+Deployment Link :  [https://task-management-app-rouge.vercel.app/](https://task-management-app-rouge.vercel.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

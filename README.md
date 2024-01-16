@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Task Management App with Drag and Drop
+
+<img width="98%" src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-16%20at%207.47.51%E2%80%AFPM_LCV_8XS35.png?updatedAt=1705416307831" alt="" />
+Home page Image
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
